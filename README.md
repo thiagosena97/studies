@@ -1,0 +1,2 @@
+# studies
+Estudos lógica.
